@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 
 ### 📡 Radar Signal Processing
-Waveform design, target detection, clutter suppression, and signal modeling
+Airborne radar, target detection, clutter suppression, and signal modeling
 
 </td>
 <td align="center" width="33%">
@@ -43,7 +43,7 @@ GNSS Reflectometry for Earth observation, sea surface altimetry, soil moisture r
 <td align="center" width="33%">
 
 ### 🌍 SAR
-Synthetic Aperture Radar imaging, InSAR, and GNSS-R/SAR fusion techniques
+Synthetic Aperture Radar imaging, and GNSS-R/SAR fusion techniques
 
 </td>
 </tr>
@@ -121,7 +121,6 @@ Brief description of the project. *e.g., Soil moisture retrieval using GNSS-R ob
 
 1. 📄 **Paper Title Here** — *Journal Name*, 2025. [`DOI`](https://doi.org/xxx)
 2. 📄 **Paper Title Here** — *Conference Name*, 2024. [`DOI`](https://doi.org/xxx)
-3. 📄 **Paper Title Here** — *Journal Name*, 2024. [`DOI`](https://doi.org/xxx)
 
 ---
 
